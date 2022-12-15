@@ -4,7 +4,7 @@
     <div class="states_data">Massachusetts</div>
     <div class="states_data">Texas</div>
     <div class="states_data">Wisconsin</div>
-    <div class="states_data1"><a href="https://witty-frog-overalls.cyclic.app/about">About Me</a></div>
+    <div class="states_data1"><a href="https://witty-frog-overalls.cyclic.app/">About Me</a></div>
   </div>
 </template>
 <script>
