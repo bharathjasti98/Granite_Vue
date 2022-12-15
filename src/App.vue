@@ -23,7 +23,7 @@ export default {
   },
   methods: {
     async getgranitedata() {
-      const response = await axios.get("https://witty-frog-overalls.cyclic.app/", {
+      const response = await axios.get("https://witty-frog-overalls.cyclic.app/granite", {
         mode: 'no-cors',
         referrerPolicy: 'origin',
       });
